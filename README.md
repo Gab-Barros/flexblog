@@ -5,7 +5,7 @@
 </h4>
 
 ## :computer: Sobre o projeto
-O projeto flexblog foi um projeto que desenvolvi durante o curso de flexbox completo na plataforma Origamid. Aplicamos todos os conceitos aprendidos durante a teoria do curso.
+O projeto flexblog foi um projeto que desenvolvi durante o curso de flexbox completo na plataforma Origamid. Aplicamos todos os conceitos da propriedade flex do CSS aprendidos durante a teoria do curso.
 
 ## Rodando o site
 
